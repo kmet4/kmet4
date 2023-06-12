@@ -38,6 +38,8 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :zap: In my free time, I solve problems on CodeWars and read learnJS.
 
 - :mailbox:How to reach me: https://t.me/lezered_0
+  
+- ⚰️I am also studying at RKSI
     
 <div align="center">🛠️: Languages and Tools :<div/><br>
 
