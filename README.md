@@ -1,9 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMzMTllNjk4YWFiYzRiNjE0NzgzYWFiY2QyZWRmZjI3ZTM2ODk3MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/IC5VCf0u27bR6vNPWh/giphy.gif" width="500"/>
-</div>
+
 <div align="center">
-  
----
 
 ### :fire: My Stats :
   
