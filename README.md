@@ -3,11 +3,11 @@
 
 ### :fire: My Stats :
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LEZERED05&theme=neon&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LEZERED&theme=neon&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEZERED05&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEZERED&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEZERED05&layout=compact&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEZERED&layout=compact&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
  </div>
 <h1 align="center">
   Hey there
