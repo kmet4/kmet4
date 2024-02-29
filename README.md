@@ -1,4 +1,4 @@
-<table>
+<table flex-wrap="wrap">
   <tr>
     <td>
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kmet4&theme=react" alt="kmet4's Github stats" />
